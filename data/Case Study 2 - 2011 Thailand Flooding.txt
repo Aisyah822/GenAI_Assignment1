@@ -1,0 +1,21 @@
+Title: Apple and the Thailand Floods
+Disaster Type: Flood
+Region: Thailand 
+Industries Affected: Electronics
+Source: LinkedIn
+URL: https://www.linkedin.com/pulse/five-case-studies-how-companies-handled-supply-chain-disruptions-mv3ff/
+Case Study:
+In 2011, severe flooding in Thailand disrupted many global supply chains, particularly in the electronics sector. Apple faced significant delays in the production of its products due to the flooding of key suppliers' facilities.
+
+Response Strategy:
+
+Apple's approach included:
+
+- Supply Chain Mapping: The company conducted a thorough analysis of its supply chain to identify vulnerable areas and potential risks.
+
+- Alternative Sourcing: Apple quickly sought alternative suppliers outside of the affected regions to maintain production levels.
+
+- Investment in Local Infrastructure: Apple also invested in local suppliers to help them recover and improve their facilities, ensuring a more robust supply chain in the future.
+
+Through these strategies, Apple minimized production delays and maintained its market position, showcasing the effectiveness of proactive risk management.
+

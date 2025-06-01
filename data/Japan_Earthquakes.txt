@@ -1,0 +1,10 @@
+Title: Japan Earthquake and Tsunami (2011)
+Disaster Type: Earthquake
+Region: Japan - Tohoku
+Industries Affected: Automotive, Warehousing, Electronics
+Source: ThomasNet
+URL: https://www.thomasnet.com/insights/how-natural-disasters-affect-the-supply-chain-and-how-to-prepare-for-the-worst/
+Article:
+The 2011 Tohoku earthquake and tsunami resulted in $210 billion in costs for Japan and affected supply chains across the globe. Unable to ship or receive needed parts, Toyota, G.M., and Nissan all temporarily shut down facilities in both the United States and Japan. Businesses reliant on the country’s Just-in-Time (JIT) deliveries were left in a lurch.
+After the earthquake, research has found that not only were companies in the supply chain physically reeling from the effects, but those affected were hardest hit by the loss of suppliers and customers, too. 
+This, of course, was partly due to Japan needing to rebuild, but overall, it led to a major shift of companies and countries shifting away from Japan as their main supplier for electronics and automobiles.

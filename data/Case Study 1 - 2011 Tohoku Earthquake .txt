@@ -1,0 +1,22 @@
+Title: Toyota and the 2011 Tohoku Earthquake
+Disaster Type: Earthquake
+Region: Japan - Tohoku
+Industries Affected: Automotive Manufacturing
+Source: LinkedIn
+URL: https://www.linkedin.com/pulse/five-case-studies-how-companies-handled-supply-chain-disruptions-mv3ff/
+Case Study:
+In March 2011, Japan was hit by a devastating earthquake and tsunami, which caused extensive damage to infrastructure and disrupted many industries, including automotive manufacturing. Toyota, one of the largest car manufacturers in the world, faced immediate challenges as its supply chain was severely affected. 
+
+Response Strategy:
+
+Toyota implemented a robust crisis management plan that included:
+
+- Diversifying Suppliers: The company began to source parts from multiple suppliers located in different regions to reduce dependency on any single source.
+
+- Strengthening Relationships: Toyota enhanced collaboration with its suppliers, ensuring they had contingency plans in place.
+
+- Real-time Monitoring: The company invested in technology to monitor its supply chain in real-time, allowing for quicker adjustments in response to disruptions.
+
+As a result, Toyota was able to resume production faster than many competitors, demonstrating the importance of resilience and adaptability in supply chain management.
+
+
